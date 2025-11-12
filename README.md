@@ -9,7 +9,7 @@ The year 2022 had the highest total box office with a gross of about $4.1 billio
 
 ### Question 2: How did the top gross change from each year?
 I used a line chart to show the top single film each year.  
-The gross increased a lot from 2020 to 2021 and peaked in 2022, then slowly declined after that.
+The gross increased a lot from 2020 to 2021 and was its max in 2022, then slowly declined after that.
 
 ### Question 3: Which studio appeared in the top 10 across the six years?
 Disney had the most appearances (15 movies in total), followed by Universal and Warner Bros.  
