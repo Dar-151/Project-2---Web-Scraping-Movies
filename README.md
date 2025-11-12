@@ -17,7 +17,7 @@ Disney clearly dominated the top-grossing films over this time period.
 
 ### Question 4: Which film had the highest gross of all?
 Spider-Man: No Way Home had the highest domestic gross across all the years.  
-It was first by a large margin and stood out because it was extremely popular when released.
+It was in first by a large margin.
 
 ### Question 5: Which percentage of the top 10 films each year were released by Disney?
 I calculated the percentage and found that Disney made up around 40–50% of the top 10 films in the most recent years.  
